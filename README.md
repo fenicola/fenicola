@@ -1,6 +1,12 @@
-## Hi, I'm Nicola 👋
+<div align="center">
 
-MSc student in **Economics, Finance & Data Analysis**, majoring in **Financial Markets**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=I'm+Nicola+👋;MSc+student+in+Economics%2C+Finance+%26+Data+Analysis)](https://git.io/typing-svg)
+
+<sub>📈 majoring in Financial Markets</sub>
+
+</div>
+
+<br/>
 
 I work mostly on empirical asset pricing and portfolio construction: factor models, separating skill from luck in returns, dimensionality reduction on asset universes, and credit risk. Every project below starts from a question, uses public data, and keeps a strict in-sample / out-of-sample split.
 
@@ -29,6 +35,10 @@ I work mostly on empirical asset pricing and portfolio construction: factor mode
 - [Italian CPI simulation](https://github.com/fenicola/italy-cpi-simulation): how ISTAT's NIC basket compares to a real household budget
 
 ### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,matlab,latex,vscode,github&theme=dark" />
+</p>
 
 **Python** (pandas, statsmodels, scikit-learn, PyPortfolioOpt, quantstats, Streamlit) · **R** · **MATLAB** · **Excel** · **LaTeX**
 
