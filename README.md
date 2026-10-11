@@ -37,9 +37,9 @@ I work mostly on empirical asset pricing and portfolio construction: factor mode
 ### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,matlab,latex,vscode,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,matlab,sqlite,latex,vscode,github&theme=dark" />
 </p>
 
-**Python** (pandas, statsmodels, scikit-learn, PyPortfolioOpt, quantstats, Streamlit) · **R** · **MATLAB** · **Excel** · **LaTeX**
+**Python** (pandas, statsmodels, scikit-learn, PyPortfolioOpt, quantstats, Streamlit) · **R** · **MATLAB** · **SQL** (SQLite) · **Excel** · **LaTeX**
 
 <!-- Contact: add LinkedIn / email here -->
