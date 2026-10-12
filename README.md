@@ -42,4 +42,6 @@ I work mostly on empirical asset pricing and portfolio construction: factor mode
 
 **Python** (pandas, statsmodels, scikit-learn, PyPortfolioOpt, quantstats, Streamlit) · **R** · **MATLAB** · **SQL** (SQLite) · **Excel** · **LaTeX**
 
-<!-- Contact: add LinkedIn / email here -->
+### Contact
+
+📫 [ferrettinicola@yahoo.com](mailto:ferrettinicola@yahoo.com)
