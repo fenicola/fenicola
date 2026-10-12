@@ -44,4 +44,4 @@ I work mostly on empirical asset pricing and portfolio construction: factor mode
 
 ### Contact
 
-📫 [ferrettinicola@yahoo.com](mailto:ferrettinicola@yahoo.com)
+📫 [nicoferretti.2@gmail.com](mailto:nicoferretti.2@gmail.com)
